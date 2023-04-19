@@ -1,0 +1,2 @@
+#  Data Science Academy Course
+ Este repositório contém os códigos desenvolvidos durante meu aprendizado no curso de Data Science da Data Science Academy. Aqui você encontrará projetos em áreas como análise de dados, visualização de dados, machine learning e muito mais. Estes projetos fazem parte do meu portfólio pessoal e foram desenvolvidos para aprimorar minhas habilidades em ciência de dados. Sinta-se à vontade para explorar os códigos e sugerir melhorias ou novas ideias de projeto.
